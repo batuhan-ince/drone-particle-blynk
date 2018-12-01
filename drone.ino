@@ -13,7 +13,7 @@ char publishString[40];
 unsigned long lastTime = 0UL;
 
 
-char auth[] = "e10598103df34714a65544bf74c51e46";
+char auth[] = "Your particle token";
 
 
 BLYNK_WRITE(V0) {
